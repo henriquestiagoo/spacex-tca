@@ -5,7 +5,7 @@ Hi there! 👋
 This application presents a list of SpaceX launches and it was architected using [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
 It was built as a proof-of-concept to demonstrate how The Composable architecture works and how it can be applied to SwiftUI projects.
 
-It serves as the base of the writing of the blog post ["A Tour of The Composable Architecture with the SpaceX API 🚀"]()
+It serves as the base of the writing of the blog post ["A Tour of The Composable Architecture with the SpaceX API 🚀"](https://tiagohenriques.vercel.app/blog/spacex-composable-architecture)
 
 This application explores an open source [SpaceX API](https://github.com/r-spacex/SpaceX-API/) 🚀 to fetch launches data.
 
