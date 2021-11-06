@@ -9,6 +9,13 @@ It serves as the base of the writing of the blog post ["A Tour of The Composable
 
 This application explores an open source [SpaceX API](https://github.com/r-spacex/SpaceX-API/) 🚀 to fetch launches data.
 
+This is how the application looks like:
+
+<p float="center">
+  <img src="https://tiagohenriques.vercel.app/static/images/blog/composable-architecture-spacex/app_showcase.jpeg" width="33%" />
+  <img src="https://tiagohenriques.vercel.app/static/images/blog/composable-architecture-spacex/favorite_launches.jpeg" width="33%" /> 
+</p>
+
 # Exploring the Composable Architecture
 TCA focuses on different aspects around developing applications of different size and complexity. It offers concepts to solve various problems, including:
 
